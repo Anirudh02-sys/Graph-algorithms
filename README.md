@@ -1,8 +1,6 @@
-# Advanced-data-structures_and_algorithms
+# Graph_algorithms
 
-Solutions for some very interseting and importent data structures in use.
-
-
+Solutions for some very interseting and importent graph problems.
 
 #Graphs 
 Data structure used - Adjacency matrix (Except for Topological sorting)
