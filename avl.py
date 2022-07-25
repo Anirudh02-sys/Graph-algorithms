@@ -1,3 +1,4 @@
+''' Code to compare avl and bst trees'''
 from time import time
 
 
